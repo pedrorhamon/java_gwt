@@ -1,0 +1,2 @@
+serviceClass: starking.client.GreetingService
+path: 3E01786889B5B38805A6CAF6A52E75B2.gwt.rpc
